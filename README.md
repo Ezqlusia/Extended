@@ -5,7 +5,6 @@ Berikut List Beberapa Aplikasi Yang Saya Modifikasi Silahkan pilih aplikasi untu
 - [X (Twitter)](https://github.com/Ezqlusia/Extended/releases/tag/X)
 - [Twitch](https://github.com/Ezqlusia/Extended/releases/tag/Twitch)
 - [Tiktok](https://github.com/Ezqlusia/Extended/releases/tag/TikTok)
-- [NewPipe](https://github.com/Ezqlusia/Extended/releases/tag/NewPipe)
 - [SmartTube](https://github.com/Ezqlusia/Extended/releases/tag/SmartTube)
  
 Note :
