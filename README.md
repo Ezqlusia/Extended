@@ -1,5 +1,5 @@
 # Extended
-Berikut List Beberapa Aplikasi Yang Saya Modifikasi Silahkan pilih aplikasi apa yang anda butuhkan:
+Berikut List Beberapa Aplikasi Yang Saya Modifikasi Silahkan pilih aplikasi untuk melihat fitur-fiturnya dan mendownload nya:
 - [Download YouTube & YouTube Music](https://github.com/Ezqlusia/Extended/releases/tag/YouTube)
 - [Download Spotify](https://github.com/Ezqlusia/Extended/releases/tag/Spotify)
 - [Download X (Twitter)](https://github.com/Ezqlusia/Extended/releases/tag/X)
